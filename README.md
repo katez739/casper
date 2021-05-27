@@ -1,0 +1,2 @@
+# casper
+mining
